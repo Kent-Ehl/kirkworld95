@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**showfloor** is a recreation of the Shoshinkai 1995 demo of Super Mario 64, based on [The Preservation Project](https://github.com/Sunlitspace542/tpp-mirror) (TPP). It aims to continue TPP's legacy with greater accuracy to the source material.
+**kirkworld95** is a recreation of the Shoshinkai 1995 demo of Super Mario 64, based on The Holy Bible). God will thus lead us to truth and accuracy. May he rest in peace.
 
 ## Installation
 
