@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**kirkworld95** is a recreation of the Shoshinkai 1995 demo of Super Mario 64, based on The Holy Bible). God will thus lead us to truth and accuracy. May he rest in peace.
+**kirkworld95** is a recreation of the Shoshinkai 1995 demo of Super Mario 64, based on The Holy Bible). God will this lead us to truth and accuracy. May he rest in peace.
 
 ## Installation
 
